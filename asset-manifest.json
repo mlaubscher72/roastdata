@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roastdata/static/css/main.f855e6bc.css",
+    "main.js": "/roastdata/static/js/main.557c6a3f.js",
+    "static/js/453.c6316778.chunk.js": "/roastdata/static/js/453.c6316778.chunk.js",
+    "index.html": "/roastdata/index.html",
+    "main.f855e6bc.css.map": "/roastdata/static/css/main.f855e6bc.css.map",
+    "main.557c6a3f.js.map": "/roastdata/static/js/main.557c6a3f.js.map",
+    "453.c6316778.chunk.js.map": "/roastdata/static/js/453.c6316778.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.557c6a3f.js"
+  ]
+}
